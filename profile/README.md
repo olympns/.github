@@ -4,10 +4,6 @@
 
 </p>
 
-<p align="center">
-  <strong>Full-Stack Web Development Team</strong>
-</p>
-
 ---
 
 ## О команде
