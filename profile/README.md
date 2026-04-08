@@ -38,25 +38,6 @@
 
 ---
 
-## Технологический стек
-
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS
-
-### Backend
-Node.js • NestJS • Express • Django • FastAPI
-
-### Базы данных
-PostgreSQL • MongoDB • Redis
-
-### DevOps
-Docker • CI/CD
-
-### Инструменты
-Git • Figma
-
----
-
 ## Контакты
 
 По вопросам сотрудничества:  
